@@ -1,0 +1,23 @@
+{
+  "name": "build-shopping-cart",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[Dtry to build cart\"",
+  "main": "index.js",
+  "dependencies": {
+    "express-hbs": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rana2020701/build-shopping-cart.git"
+  },
+  "author": "Rana wagdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rana2020701/build-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/rana2020701/build-shopping-cart#readme"
+}
